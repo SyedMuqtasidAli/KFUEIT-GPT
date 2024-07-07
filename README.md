@@ -1,4 +1,4 @@
-# KFUEIT GPT
+# KFUEIT GPT 🚀
 
 KFUEIT GPT is a project developed for the Final Year, leveraging the power of the MINI-LM-L6-V2 transformer library. This project integrates advanced technologies such as Flask, Python, and MySQL database to create an interactive query system.
 
