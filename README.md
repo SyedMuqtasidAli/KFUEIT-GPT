@@ -26,7 +26,7 @@ KFUEIT GPT is a project developed for the Final Year, leveraging the power of th
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/kfueit-gpt.git
+    git clone https://github.com/syed-muqtasid-ali/kfueit-gpt.git
     cd kfueit-gpt
     ```
 
